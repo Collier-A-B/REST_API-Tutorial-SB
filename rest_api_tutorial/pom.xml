@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>collier.tutorial</groupId>
-	<artifactId>rest_api_tutorial</artifactId>
+	<artifactId>rest_api_tutorials</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>rest_api_tutorial</name>
+	<name>rest_api_tutorials</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
