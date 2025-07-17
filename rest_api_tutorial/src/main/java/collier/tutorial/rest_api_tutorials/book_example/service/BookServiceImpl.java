@@ -1,11 +1,13 @@
 package collier.tutorial.rest_api_tutorials.book_example.service;
 
 import java.util.ArrayList;
-
 import java.util.List;
+
+import org.springframework.stereotype.Service;
 
 import collier.tutorial.rest_api_tutorials.book_example.model.Book;
 
+@Service
 public class BookServiceImpl implements BookService{
     private List<Book> books = new ArrayList<>();
 
